@@ -1,0 +1,31 @@
+Dataset files — keep raw data local
+
+data/*
+!data/.gitkeep
+
+Python cache
+
+pycache/
+*.py[cod]
+
+Virtual environments
+
+.venv/
+venv/
+env/
+
+Jupyter Notebook
+
+.ipynb_checkpoints/
+
+macOS
+
+.DS_Store
+
+Environment variables and secrets
+
+.env
+
+Temporary files
+
+*.tmp
